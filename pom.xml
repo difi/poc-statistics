@@ -29,7 +29,7 @@
 
     <properties>
         <!-- NB! elasticsearch-version must also be updated in Dockerfile _AND_ ElasticSearchRule.java -->
-        <elasticsearch.version>7.10.2</elasticsearch.version>
+        <elasticsearch.version>7.11.2</elasticsearch.version>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <no.difi.jenkins-pipeline.docker-registry>local</no.difi.jenkins-pipeline.docker-registry>
